@@ -1,0 +1,8 @@
+{"People":
+[
+{"CustomerID": "1","FName": "Mark","LName": "Hamill","Adrress": "Examplestreet1","PostNumber": "6700"},
+{"CustomerID": "2","FName": "Daisy","LName": "Chain","Adrress": "Examplestreet2","PostNumber": "6700"},
+{"CustomerID": "3","FName": "Peter","LName": "Locklin","Adrress": "Examplestreet3","PostNumber": "6700"}
+{"CustomerID": "3","FName": "Doctor","LName": "Unknown","Adrress": "Examplestreet4","PostNumber": "6700"}
+]
+}
