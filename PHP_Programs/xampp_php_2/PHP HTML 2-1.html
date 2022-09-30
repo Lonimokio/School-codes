@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+ <html lang="fi">
+ <head> 
+<meta charset="utf-8"> 
+<link href="CSS test.css"rel="stylesheet"type="text/css"/>
+<title>Tutkimuslomake</title>
+
+</head> 
+
+<body> 
+
+<form action="tulostus.php" method="post">
+ <h1 Tervetuloa! Täytä alla oleva tutkimuslomake: </h1>
+
+<p> Perustiedot:<br>
+<input type="text" size="30" name="kokonimi">
+ Nimi<br>
+<input type="password" size="20" name="ssana">
+ Salasana<br>
+
+</p>
+
+
+<p> Valitse ikäryhmä:<br>
+<select name="ikaryhma" size="1">
+<option selected value="ei valittu">
+Valitse oikea vaihtoehto
+</option>
+<option value="0 -20 vuotta">
+0-20 vuotta
+</option>
+<option value="20 -60 vuotta">
+20-60 vuotta
+</option>
+<option value="Yli 60 vuotta">
+Yli 60 vuotta
+</option>
+</select>
+ Ikäryhma
+</p>
+<p> 
+Minkä arvosanan annat web-palvelullemme?
+<br>
+<input type="radio" name="arvosana" value="4">4<br>
+<input type="radio" name="arvosana" value="7">7<br>
+<input type="radio" name="arvosana" value="10">10<br>
+</p>
+
+<p> Valitse käyttöjärjestelmäsi:<br>
+<input type="checkbox" name="OS" value="win">Windows<br>
+<input type="checkbox" name="OS" value="lin">Linux<br>
+<input type="checkbox" name="OS" value="muu">Muu<br>
+</p>
+
+<p> Vapaamuotoinen mielipiteesi web-palvelustamme?<br>
+<textarea name="mielipide" cols="50" rows="3"></textarea>
+</p>
+
+<p><input type="submit" value="Lähetä palaute">
+<input type="reset" value="Täytä uudestaan">
+</p>
+</form> 
+</body> 
+</html>
