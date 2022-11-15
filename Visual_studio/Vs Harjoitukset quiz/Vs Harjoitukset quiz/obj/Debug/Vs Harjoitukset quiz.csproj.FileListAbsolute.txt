@@ -1,0 +1,10 @@
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset quiz\Vs Harjoitukset quiz\obj\Debug\Vs Harjoitukset quiz.csprojAssemblyReference.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset quiz\Vs Harjoitukset quiz\obj\Debug\Vs_Harjoitukset_quiz.Quiz.resources
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset quiz\Vs Harjoitukset quiz\obj\Debug\Vs_Harjoitukset_quiz.Properties.Resources.resources
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset quiz\Vs Harjoitukset quiz\obj\Debug\Vs Harjoitukset quiz.csproj.GenerateResource.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset quiz\Vs Harjoitukset quiz\obj\Debug\Vs Harjoitukset quiz.csproj.CoreCompileInputs.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset quiz\Vs Harjoitukset quiz\bin\Debug\Vs Harjoitukset quiz.exe.config
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset quiz\Vs Harjoitukset quiz\bin\Debug\Vs Harjoitukset quiz.exe
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset quiz\Vs Harjoitukset quiz\bin\Debug\Vs Harjoitukset quiz.pdb
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset quiz\Vs Harjoitukset quiz\obj\Debug\Vs Harjoitukset quiz.exe
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset quiz\Vs Harjoitukset quiz\obj\Debug\Vs Harjoitukset quiz.pdb

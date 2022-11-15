@@ -1,0 +1,10 @@
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset Switch\Vs Harjoitukset Switch\bin\Debug\Vs Harjoitukset Switch.exe.config
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset Switch\Vs Harjoitukset Switch\bin\Debug\Vs Harjoitukset Switch.exe
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset Switch\Vs Harjoitukset Switch\bin\Debug\Vs Harjoitukset Switch.pdb
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset Switch\Vs Harjoitukset Switch\obj\Debug\Vs_Harjoitukset_Switch.Properties.Resources.resources
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset Switch\Vs Harjoitukset Switch\obj\Debug\Vs Harjoitukset Switch.csproj.GenerateResource.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset Switch\Vs Harjoitukset Switch\obj\Debug\Vs Harjoitukset Switch.csproj.CoreCompileInputs.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset Switch\Vs Harjoitukset Switch\obj\Debug\Vs Harjoitukset Switch.exe
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset Switch\Vs Harjoitukset Switch\obj\Debug\Vs Harjoitukset Switch.pdb
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset Switch\Vs Harjoitukset Switch\obj\Debug\Vs Harjoitukset Switch.csprojAssemblyReference.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs Harjoitukset Switch\Vs Harjoitukset Switch\obj\Debug\Vs_Harjoitukset_Switch.Switch.resources

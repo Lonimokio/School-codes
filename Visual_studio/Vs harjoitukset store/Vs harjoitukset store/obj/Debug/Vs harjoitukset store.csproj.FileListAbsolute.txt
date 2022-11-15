@@ -1,0 +1,10 @@
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs harjoitukset store\Vs harjoitukset store\obj\Debug\Vs harjoitukset store.csprojAssemblyReference.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs harjoitukset store\Vs harjoitukset store\obj\Debug\Vs_harjoitukset_store.Main.resources
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs harjoitukset store\Vs harjoitukset store\obj\Debug\Vs_harjoitukset_store.Properties.Resources.resources
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs harjoitukset store\Vs harjoitukset store\obj\Debug\Vs harjoitukset store.csproj.GenerateResource.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs harjoitukset store\Vs harjoitukset store\obj\Debug\Vs harjoitukset store.csproj.CoreCompileInputs.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs harjoitukset store\Vs harjoitukset store\bin\Debug\Vs harjoitukset store.exe.config
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs harjoitukset store\Vs harjoitukset store\bin\Debug\Vs harjoitukset store.exe
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs harjoitukset store\Vs harjoitukset store\bin\Debug\Vs harjoitukset store.pdb
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs harjoitukset store\Vs harjoitukset store\obj\Debug\Vs harjoitukset store.exe
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\Programming\Vs harjoitukset store\Vs harjoitukset store\obj\Debug\Vs harjoitukset store.pdb

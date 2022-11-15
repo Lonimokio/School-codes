@@ -1,0 +1,10 @@
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\First visual Csharp\First visual Csharp\bin\Debug\First visual Csharp.exe.config
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\First visual Csharp\First visual Csharp\bin\Debug\First visual Csharp.exe
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\First visual Csharp\First visual Csharp\bin\Debug\First visual Csharp.pdb
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\First visual Csharp\First visual Csharp\obj\Debug\First visual Csharp.csprojAssemblyReference.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\First visual Csharp\First visual Csharp\obj\Debug\First_visual_Csharp.Form1.resources
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\First visual Csharp\First visual Csharp\obj\Debug\First_visual_Csharp.Properties.Resources.resources
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\First visual Csharp\First visual Csharp\obj\Debug\First visual Csharp.csproj.GenerateResource.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\First visual Csharp\First visual Csharp\obj\Debug\First visual Csharp.csproj.CoreCompileInputs.cache
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\First visual Csharp\First visual Csharp\obj\Debug\First visual Csharp.exe
+C:\Users\arttu.mutka\OneDrive - Lounais-Hämeen koulutuskuntayhtymä\Ammatilliset opinot Vuosi 2\First visual Csharp\First visual Csharp\obj\Debug\First visual Csharp.pdb
